@@ -103,7 +103,7 @@ void outputRecord (StudentRecord record)
     }
     
     outputStream << "Quiz Scores: " << record.quiz1 << "  "
-                << record.quiz2 << endl;
+                 << record.quiz2 << endl;
     outputStream << "Midterm Exam Score: " << record.midtermExam << endl;
     outputStream << "Final Exam Score: " << record.finalExam << endl;
     outputStream << endl;
