@@ -1,3 +1,14 @@
+// ******************************************************************
+//
+//  This program computes student grades. For each student, two
+//  quiz grades (graded on a 10 point basis), one midterm exam grade
+//  and one final exam grade (each on a 100 point basis) are read
+//  in. The final numeric grade is computed weighing the final 
+//  exam 50%, the midterm 25%, and the quizzes 25%. The numeric
+//  grade and corresponding letter grade are output.
+//
+// ******************************************************************
+
 #include <iostream>
 #include <cstdlib>
 #include <fstream>
